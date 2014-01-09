@@ -1,0 +1,6 @@
+{
+    "name": "cornernote/ckeditor-assets",
+    "description": "CKEditor Assets",
+    "type": "library",
+    "keywords": ["ckeditor","mrphp"]
+}

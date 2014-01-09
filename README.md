@@ -1,0 +1,4 @@
+ckeditor-assets
+===============
+
+CKEditor Assets
